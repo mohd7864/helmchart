@@ -1,0 +1,7 @@
+apiVersion: helmchart.otis.com/v1alpha1
+kind: HelmChart
+metadata:
+  name: example-helmchart
+spec:
+  # Add fields here
+  size: 3
