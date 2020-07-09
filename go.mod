@@ -1,4 +1,4 @@
-module helmchart
+module github.com/mohd7864/helmchart
 
 go 1.13
 
